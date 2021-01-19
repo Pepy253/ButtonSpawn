@@ -1,0 +1,9 @@
+C:\Users\Pepy2\source\repos\Button spawn\Button spawn\bin\Debug\Button spawn.exe.config
+C:\Users\Pepy2\source\repos\Button spawn\Button spawn\bin\Debug\Button spawn.exe
+C:\Users\Pepy2\source\repos\Button spawn\Button spawn\bin\Debug\Button spawn.pdb
+C:\Users\Pepy2\source\repos\Button spawn\Button spawn\obj\Debug\Button spawn.csprojAssemblyReference.cache
+C:\Users\Pepy2\source\repos\Button spawn\Button spawn\obj\Debug\Button_spawn.ButtonSpawn.resources
+C:\Users\Pepy2\source\repos\Button spawn\Button spawn\obj\Debug\Button_spawn.Properties.Resources.resources
+C:\Users\Pepy2\source\repos\Button spawn\Button spawn\obj\Debug\Button spawn.csproj.GenerateResource.cache
+C:\Users\Pepy2\source\repos\Button spawn\Button spawn\obj\Debug\Button spawn.exe
+C:\Users\Pepy2\source\repos\Button spawn\Button spawn\obj\Debug\Button spawn.pdb
